@@ -42,5 +42,10 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "description": "## Project setup ``` yarn install ```",
+  "main": "babel.config.js",
+  "keywords": [],
+  "author": "JT Houk <jt1992@gmail.com> (https://jt.houk.space/)",
+  "license": "MIT"
 }
